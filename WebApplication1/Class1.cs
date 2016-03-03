@@ -11,6 +11,8 @@ namespace WebApplication1
 
             System.Console.WriteLine("hi");
             System.Console.ReadLine();
+            System.Console.ReadLine();
+            System.Console.ReadLine();
 
         }
 
