@@ -8,6 +8,7 @@ namespace WebApplication1
     public class Class2
     {
         System.Console.WriteLine("Hello~~~");
+             System.Console.WriteLine("hahahahahahahaha~~~");
             System.Console.ReadLine();
             System.Console.ReadLine();
     }
